@@ -1,0 +1,131 @@
+C:\Users\SELAHATTİN\Documents\Visual Studio 2010\Projects\galeri\galeri\bin\Debug\galeri.exe
+C:\Users\SELAHATTİN\Documents\Visual Studio 2010\Projects\galeri\galeri\bin\Debug\galeri.pdb
+C:\Users\SELAHATTİN\Documents\Visual Studio 2010\Projects\galeri\galeri\obj\x86\Debug\galeri.Form1.resources
+C:\Users\SELAHATTİN\Documents\Visual Studio 2010\Projects\galeri\galeri\obj\x86\Debug\galeri.Form2.resources
+C:\Users\SELAHATTİN\Documents\Visual Studio 2010\Projects\galeri\galeri\obj\x86\Debug\galeri.Form3.resources
+C:\Users\SELAHATTİN\Documents\Visual Studio 2010\Projects\galeri\galeri\obj\x86\Debug\galeri.Form4.resources
+C:\Users\SELAHATTİN\Documents\Visual Studio 2010\Projects\galeri\galeri\obj\x86\Debug\galeri.Form5.resources
+C:\Users\SELAHATTİN\Documents\Visual Studio 2010\Projects\galeri\galeri\obj\x86\Debug\galeri.Properties.Resources.resources
+C:\Users\SELAHATTİN\Documents\Visual Studio 2010\Projects\galeri\galeri\obj\x86\Debug\galeri.csproj.GenerateResource.Cache
+C:\Users\SELAHATTİN\Documents\Visual Studio 2010\Projects\galeri\galeri\obj\x86\Debug\galeri.exe
+C:\Users\SELAHATTİN\Documents\Visual Studio 2010\Projects\galeri\galeri\obj\x86\Debug\galeri.pdb
+E:\galeri\galeri\obj\x86\Debug\galeri.exe
+E:\galeri\galeri\obj\x86\Debug\galeri.pdb
+E:\galeri\galeri\bin\Debug\galeri.exe
+E:\galeri\galeri\bin\Debug\galeri.pdb
+E:\galeri\galeri\obj\x86\Debug\galeri.Form1.resources
+E:\galeri\galeri\obj\x86\Debug\galeri.Form2.resources
+E:\galeri\galeri\obj\x86\Debug\galeri.Form3.resources
+E:\galeri\galeri\obj\x86\Debug\galeri.Form4.resources
+E:\galeri\galeri\obj\x86\Debug\galeri.Form5.resources
+E:\galeri\galeri\obj\x86\Debug\galeri.Properties.Resources.resources
+E:\galeri\galeri\obj\x86\Debug\galeri.csproj.GenerateResource.Cache
+E:\galeri\galeri\obj\x86\Debug\galeri.csprojResolveAssemblyReference.cache
+C:\Users\web24\Desktop\galeri\galeri\obj\x86\Debug\galeri.exe
+C:\Users\web24\Desktop\galeri\galeri\obj\x86\Debug\galeri.pdb
+C:\Users\web24\Desktop\galeri\galeri\bin\Debug\galeri.exe
+C:\Users\web24\Desktop\galeri\galeri\bin\Debug\galeri.pdb
+C:\Users\web24\Desktop\galeri\galeri\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\web24\Desktop\galeri\galeri\obj\x86\Debug\galeri.Form1.resources
+C:\Users\web24\Desktop\galeri\galeri\obj\x86\Debug\galeri.Form2.resources
+C:\Users\web24\Desktop\galeri\galeri\obj\x86\Debug\galeri.Form3.resources
+C:\Users\web24\Desktop\galeri\galeri\obj\x86\Debug\galeri.Form4.resources
+C:\Users\web24\Desktop\galeri\galeri\obj\x86\Debug\galeri.Form5.resources
+C:\Users\web24\Desktop\galeri\galeri\obj\x86\Debug\galeri.Properties.Resources.resources
+C:\Users\web24\Desktop\galeri\galeri\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\web24\Desktop\galeri\galeri\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.exe
+E:\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.pdb
+E:\galeri(yeni V1.2.0)\galeri\bin\Debug\galeri.exe
+E:\galeri(yeni V1.2.0)\galeri\bin\Debug\galeri.pdb
+E:\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.csprojResolveAssemblyReference.cache
+E:\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.Form1.resources
+E:\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.Form2.resources
+E:\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.Form3.resources
+E:\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.Form4.resources
+E:\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.Form5.resources
+E:\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.Properties.Resources.resources
+E:\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.csproj.GenerateResource.Cache
+C:\Users\SELAHATTİN\Desktop\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.exe
+C:\Users\SELAHATTİN\Desktop\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.pdb
+C:\Users\SELAHATTİN\Desktop\galeri(yeni V1.2.0)\galeri\bin\Debug\galeri.exe
+C:\Users\SELAHATTİN\Desktop\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.csprojResolveAssemblyReference.cache
+C:\Users\SELAHATTİN\Desktop\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.Form1.resources
+C:\Users\SELAHATTİN\Desktop\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.Form2.resources
+C:\Users\SELAHATTİN\Desktop\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.Form3.resources
+C:\Users\SELAHATTİN\Desktop\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.Form4.resources
+C:\Users\SELAHATTİN\Desktop\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.Form5.resources
+C:\Users\SELAHATTİN\Desktop\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.Form6.resources
+C:\Users\SELAHATTİN\Desktop\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.Properties.Resources.resources
+C:\Users\SELAHATTİN\Desktop\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.csproj.GenerateResource.Cache
+C:\Users\SELAHATTİN\Desktop\galeri(yeni V1.2.0)\galeri\bin\Debug\galeri.pdb
+C:\Users\SELAHATTİN\Desktop\galeri(yeni V1.2.0)\galeri\obj\x86\Debug\galeri.Form7.resources
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\obj\x86\Debug\galeri.exe
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\obj\x86\Debug\galeri.pdb
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\obj\x86\Debug\galeri.csprojResolveAssemblyReference.cache
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\obj\x86\Debug\galeri.Form1.resources
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\obj\x86\Debug\galeri.Form2.resources
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\obj\x86\Debug\galeri.Form3.resources
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\obj\x86\Debug\galeri.Form4.resources
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\obj\x86\Debug\galeri.Form5.resources
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\obj\x86\Debug\galeri.Form6.resources
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\obj\x86\Debug\galeri.Form7.resources
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\obj\x86\Debug\galeri.Properties.Resources.resources
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\obj\x86\Debug\galeri.csproj.GenerateResource.Cache
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\bin\Debug\galeri.exe
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\bin\Debug\galeri.pdb
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\obj\x86\Debug\galeri.Form8.resources
+C:\Users\SELAHATTİN\Desktop\galeri( V1.2.1)\galeri\obj\x86\Debug\galeri.Form9.resources
+E:\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.exe
+E:\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.pdb
+E:\galeri( V1.0.0)\galeri\bin\Debug\galeri.exe
+E:\galeri( V1.0.0)\galeri\bin\Debug\galeri.pdb
+E:\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.csprojResolveAssemblyReference.cache
+E:\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form1.resources
+E:\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form10.resources
+E:\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form2.resources
+E:\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form3.resources
+E:\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form4.resources
+E:\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form5.resources
+E:\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form6.resources
+E:\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form7.resources
+E:\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form8.resources
+E:\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form9.resources
+E:\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Properties.Resources.resources
+E:\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.csproj.GenerateResource.Cache
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.exe
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.pdb
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\bin\Debug\galeri.exe
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\bin\Debug\galeri.pdb
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.csprojResolveAssemblyReference.cache
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form1.resources
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form10.resources
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form2.resources
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form3.resources
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form4.resources
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form5.resources
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form6.resources
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form7.resources
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form8.resources
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form9.resources
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Properties.Resources.resources
+C:\Users\SELAHATTİN\Desktop\selahattin\PROGRAMLAR\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.csproj.GenerateResource.Cache
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.exe
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.pdb
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\bin\Debug\galeri.exe.config
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form1.resources
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form10.resources
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form2.resources
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form3.resources
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form4.resources
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form5.resources
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form6.resources
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form7.resources
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form8.resources
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Form9.resources
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\galeri.Properties.Resources.resources
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\bin\Debug\galeri.exe
+C:\Users\web24\Desktop\galeri( V1.0.0)\galeri\bin\Debug\galeri.pdb
